@@ -1,0 +1,98 @@
+﻿h1 {
+    font-size: 30px;
+    color: lightblue;
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h2 {
+    border: solid;
+    font-size: 65px;
+    color: lightpink;
+    font-family: 'BN Capuccino';
+    text-align: center;
+}
+
+h3 {
+    font-size: 45px;
+    color: lightblue;
+    font-weight: 1000;
+    padding-right: 150px;
+}
+
+h4 {
+    padding-right: 150px;
+}
+
+ul {
+    font-size: 25px;
+    float: right;
+    padding: 30px;
+    position: fixed;
+}
+
+table td {
+    border: solid lightpink;
+    margin: 200px;
+}
+
+table th {
+    border: solid lightblue;
+    margin: 200px;
+}
+
+table tr {
+    margin: 200px;
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+    padding-right: 150px;
+}
+
+img {
+    margin-right: 150px;
+    border: solid;
+    color: sienna;
+}
+
+#logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: none;
+}
+
+#mi {
+    padding-right: 150px;
+}
+
+table {
+    padding-right: 150px;
+}
+
+#re {
+    padding-right: 150px;
+}
+
+video {
+    margin-right: 150px;
+    border: ridge;
+    border-width: 10px;
+    color: sienna;
+    border-color: crimson;
+}
+
+form {
+    font-size: 30px;
+    color: cornflowerblue;
+    padding-right: 150px;
+}
+
+input {
+    font-size: 20px;
+}
